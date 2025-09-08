@@ -1,0 +1,119 @@
+,0,1
+year,2007.633892,2005.71092
+X1,914.5426151,399.3393531
+X2,1646.982563,856.3409969
+X3,123.7463636,85.88091897
+X4,393.6845858,138.5685764
+X5,208.560102,103.7353979
+X6,141.9947257,-48.11233276
+X7,297.7945466,132.5653065
+X8,3596.015157,857.8130112
+X9,2447.871581,1183.957172
+X10,2952.555391,1664.630981
+X11,730.5169838,609.4300069
+X12,269.9380796,52.68765747
+X13,800.8891313,327.6161753
+X14,628.7487939,347.233954
+X15,582.0347097,-165.1072672
+X16,2447.871581,1183.957172
+X17,1809.571974,1266.816748
+X18,2054.187022,1045.388596
+horizon_years,1.655983522,1.607489045
+y,0,1
+Bankrupt_,0,1
+ROA_C_ before interest and depreciation before interest,0.508069281,0.418503344
+ROA_A_ before interest and _ after tax,0.562014701,0.456946785
+ROA_B_ before interest and depreciation after tax,0.556659349,0.461483484
+Operating Gross Margin,0.608257341,0.59867038
+Realized Sales Gross Margin,0.6082366,0.598716929
+Operating Profit Rate,0.998755674,0.998738754
+Pre_tax net Interest Rate,0.797209763,0.796589542
+After_tax net Interest Rate,0.809105587,0.808423883
+Non_industry income and expenditure_revenue,0.303656742,0.302608523
+Continuous interest rate _after tax_,0.781400865,0.780798532
+Operating Expense Rate,1998943223,1887486364
+Research and development expense rate,1961922519,1605623182
+Cash flow rate,0.46765623,0.460680886
+Interest_bearing debt interest rate,16903924.84,2772727.273
+Tax rate _A_,0.117778185,0.03169027
+Net Value Per Share _B_,0.191668873,0.160416371
+Net Value Per Share _A_,0.191644403,0.160301064
+Net Value Per Share _C_,0.191679632,0.160459085
+Persistent EPS in the Last Four Seasons,0.230146219,0.188817933
+Cash Flow Per Share,0.323731151,0.316005871
+Revenue Per Share _Yuan __,1372935.333,0.027322983
+Operating Profit Per Share _Yuan __,0.109815416,0.08735371
+Per Share Net profit before tax _Yuan __,0.1855806,0.147765445
+Realized Sales Gross Profit Growth Rate,0.022408865,0.022377532
+Operating Profit Growth Rate,0.848009772,0.847086831
+After_tax Net Profit Growth Rate,0.68924168,0.68627972
+Regular Net Profit Growth Rate,0.689243521,0.686345148
+Continuous Net Profit Growth Rate,0.217656285,0.21712094
+Total Asset Growth Rate,5531602816,4803016818
+Net Value Growth Rate,204576.4517,42409090.91
+Total Asset Return Growth Rate Ratio,0.264277164,0.263358086
+Cash Reinvestment _,0.379871064,0.373845813
+Current Ratio,416729.8229,0.007237612
+Quick Ratio,7257160.187,41954545.46
+Interest Expense Ratio,0.630996513,0.63082601
+Total debt_Total net worth,4037732.997,15772727.31
+Debt ratio _,0.11071438,0.187047028
+Net worth_Assets,0.88928562,0.812952972
+Long_term fund suitability ratio _A_,0.008695765,0.011391393
+Borrowing dependency,0.374129355,0.390400105
+Contingent liabilities_Net worth,0.005811496,0.010671008
+Operating profit_Paid_in capital,0.109692431,0.087507458
+Net profit before tax_Paid_in capital,0.18388329,0.147672498
+Inventory and accounts receivable_Net value,0.402276206,0.40795223
+Total Asset Turnover,0.142859772,0.103986643
+Accounts Receivable Turnover,13031216.85,5545454.549
+Average Collection Days,10133050.47,622727.2833
+Inventory Turnover Rate _times_,2149921928,2124633636
+Fixed Assets Turnover Frequency,975657432.9,1996602727
+Net Worth Turnover Rate _times_,0.038453822,0.042831378
+Revenue per person,1335050.801,32045454.58
+Operating profit per person,0.401225642,0.384034735
+Allocation rate per person,11103682.39,15818181.85
+Working Capital to Total Assets,0.816206963,0.751680836
+Quick Assets_Total Assets,0.403317561,0.304573845
+Current Assets_Total Assets,0.524058388,0.468733334
+Cash_Total Assets,0.126640233,0.047735963
+Quick Assets_Current Liability,3712683.752,0.005020996
+Cash_Current Liability,29899530.25,254940909.1
+Current Liability to Assets,0.088887014,0.144238084
+Operating Funds to Liability,0.354322638,0.338991241
+Inventory_Working Capital,0.27739875,0.277285812
+Inventory_Current Liability,55719442.35,58427272.73
+Current Liabilities_Liability,0.762384095,0.738045914
+Working Capital_Equity,0.736130417,0.726401213
+Current Liabilities_Equity,0.331030987,0.34277248
+Long_term Liability to Current Assets,54078996.82,56590909.11
+Retained Earnings to Total Assets,0.93574921,0.904243696
+Total income_Total expense,0.002564703,0.002076301
+Total expense_Assets,0.028494877,0.049857632
+Current Asset Turnover Rate,1189711558,1380154000
+Quick Asset Turnover Rate,2147829492,2640836364
+Working capitcal Turnover Rate,0.594011,0.593864248
+Cash Turnover Rate,2481653242,2181732727
+Cash Flow to Sales,0.671529965,0.671555273
+Fixed Assets to Assets,0.246886491,37818182.14
+Current Liability to Liability,0.762384095,0.738045914
+Current Liability to Equity,0.331030987,0.34277248
+Equity to Long_term Liability,0.115148994,0.130512119
+Cash Flow to Total Assets,0.650339957,0.631452341
+Cash Flow to Liability,0.462085008,0.454777678
+CFO to Assets,0.594648724,0.556411547
+Cash Flow to Equity,0.31572097,0.311425619
+Current Liability to Current Assets,0.030541663,0.060443062
+Liability_Assets Flag,0.000303076,0.027272727
+Net Income to Total Assets,0.81008313,0.738083479
+Total assets to GNP price,16216699.51,91000000.01
+No_credit Interval,0.623927021,0.623541257
+Gross Profit to Sales,0.608255644,0.598668628
+Net Income to Stockholder_s Equity,0.840881942,0.826007935
+Liability to Equity,0.279924667,0.293577761
+Degree of Financial Leverage _DFL_,0.027511059,0.02844279
+Interest Coverage Ratio _Interest expense to EBIT_,0.565371225,0.564959248
+Net Income Flag,1,1
+Equity to Liability,0.048336691,0.024831755
+class,0,1

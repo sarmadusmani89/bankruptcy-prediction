@@ -1,0 +1,20 @@
+{
+  "us": {
+    "total": 78682,
+    "train": 62945,
+    "test": 15737,
+    "positives_total": 5220
+  },
+  "taiwan": {
+    "total": 6819,
+    "train": 5455,
+    "test": 1364,
+    "positives_total": 220
+  },
+  "poland": {
+    "total": 43405,
+    "train": 34724,
+    "test": 8681,
+    "positives_total": 2091
+  }
+}

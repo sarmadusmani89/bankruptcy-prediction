@@ -1,0 +1,7 @@
+Runbook:
+1. Ensure data files are in BASE_DIR: ./bankruptcy_prediction_data
+2. Run cells sequentially.
+3. Outputs are saved under: ./bankruptcy_outputs
+4. Models: ./bankruptcy_outputs/models/bankruptcy_model.pkl and final artifacts.
+5. CV results: ./bankruptcy_outputs/reports/cv_smote_vs_classweight.json
+6. For troubleshooting, inspect ./bankruptcy_outputs/eda and ./bankruptcy_outputs/reports
